@@ -8,7 +8,7 @@ import { ChakraProvider } from '@chakra-ui/react'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ChakraProvider>
-    <GoogleOAuthProvider clientId="119425907487-1u0vf1hntjt5eh3nk4tkc1kinuv8ac2q.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="856508233551-qsaumu622n1g650ur1mjk1j5uj6bvvvc.apps.googleusercontent.com">
       <App />
     </GoogleOAuthProvider>
     </ChakraProvider>
