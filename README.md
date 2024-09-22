@@ -12,8 +12,8 @@ Currently, two official plugins are available:
 
 run the following command given below
 
-  => git clone https://github.com/kaviyarasan2865/Process-Automation
-  => npm intall
-  => npm run dev 
+  git clone https://github.com/kaviyarasan2865/Process-Automation
+  npm intall
+  npm run dev 
 
 visit http://localhost:5173/ or http://127.0.0.1:5173/ to run this project in your file
